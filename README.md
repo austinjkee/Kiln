@@ -1,4 +1,4 @@
-# Kiln
+# OpenKiln
 An object-oriented 3D modelling framework.
 
 ## About this Project
